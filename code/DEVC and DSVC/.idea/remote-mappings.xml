@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.157:22/public/home/yelinhui/anaconda3/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/public/home/yelinhui/fakeaudio尝试一/cycleGAN change voice print" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.157:22/public/home/yelinhui/anaconda3/envs/python3.5/bin/python3.5">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/public/home/yelinhui/fakeaudio尝试一/voice conversion/已使用cycleGAN change voice" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.157:22/public/home/yelinhui/anaconda3/envs/python3.6/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/public/home/yelinhui/fakeaudio尝试一/voice conversion/已使用cycleGAN change voice" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.68:10023/home/yelinhui/anacond/envs/py36_ylh/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/yelinhui/yelinhui/quanbu/fakeaudio/voice_conversion/yishiyongcycleGAN change voice" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.68:10023/home/yelinhui/anacond/envs/py360_ylh/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/yelinhui/yelinhui/quanbu/fakeaudio/voice_conversion/yishiyongcycleGAN change voice" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://yelinhui@10.12.11.68:10023/home/yelinhui/anacond/envs/py3.6.3_ylh/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/yelinhui/yelinhui/quanbu/fakeaudio/voice_conversion/yishiyongcycleGAN change voice" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yelinhui@10.12.11.68:10023">
+    <serverData>
+      <paths name="yelinhui@10.12.11.68:10023">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yelinhui/yelinhui/quanbu/fakeaudio/TTS--transformer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yelinhui@10.12.11.68:10023">
+    <serverData>
+      <paths name="yelinhui@10.12.11.68:10023">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yelinhui/yelinhui/quanbu/fakeaudio/voice_conversion/yishiyongcycleGAN change voice" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhanglongyuan">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhanglongyuan/zhanglongyuan/yelinhui/yelinhui_StarGAN_V3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
